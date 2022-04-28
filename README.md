@@ -268,7 +268,7 @@ sudo docker-compose start
 </details>
 
 ## Deploying on Heroku
-<p><a href="https://github.com/dev3382/mrxsubham"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://github.com/dev3382/mrxsubham/tree/heroku"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 ------
 
